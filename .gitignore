@@ -7,3 +7,5 @@ share/
 data/
 lib/python*
 etc/
+scripts/output/
+scripts/saved_models/
